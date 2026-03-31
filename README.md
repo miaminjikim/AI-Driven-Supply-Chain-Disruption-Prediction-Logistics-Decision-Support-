@@ -5,6 +5,14 @@ This project demonstrates how AI can be applied to predict and manage disruption
 ![Feature Importance](feature_importance_supply_chain.png)
 ---
 
+## 📊 Example Output
+
+- ROC-AUC: ~0.73  
+- Key drivers: shipment scheduling, product features, regional factors  
+- Output: risk score + recommended logistics action
+
+---
+
 ## 🌍 Overview
 
 Machine learning project predicting shipment disruption risk using supply chain data, with feature importance analysis and decision-support recommendations for logistics planning.
