@@ -26,7 +26,8 @@ Machine learning project predicting shipment disruption risk using supply chain 
 - Evaluation using ROC-AUC and classification metrics  
 - Feature importance analysis  
 - Decision-support logic for operational actions
-- Dataset available on Kaggle: [DataCo Smart Supply Chain Dataset] https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download)
+- Dataset source:
+  [DataCo Smart Supply Chain Dataset] (https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download)
 
 ---
 
