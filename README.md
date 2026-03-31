@@ -2,6 +2,7 @@
 
 This project demonstrates how AI can be applied to predict and manage disruption risk in global logistics systems under real-world uncertainty.
 
+![Feature Importance](feature_importance_supply_chain.png)
 ---
 
 ## 🌍 Overview
